@@ -1,0 +1,6 @@
+1,Head Set,500,1
+2,Adapter,700,0
+3,Multi plug,450.5,1
+4,Monitor,7000.5,1
+5,Monitor edited,8000.15,1
+6,Acer Laptop,40000,1
