@@ -12,7 +12,7 @@ struct myDatas{
 };
 class myShop{
     vector<myDatas> datavector;
-    vector<myDatas>::iterator datavectorit;
+    
     
     const string filename="Rafiz.txt";
     public:
