@@ -116,6 +116,7 @@ int main(){
                 ms.visibility(id);
                 ms.writer();
                 cout<<"Item Removed!\n";
+                break;
         }
 
     }
